@@ -8,11 +8,11 @@
 // 5. Copia los valores del objeto firebaseConfig
 
 export const firebaseConfig = {
-  apiKey: "AIzaSyCbd5jX7aw0pRE-2zMA8WF20lmfwHdf558",
-  authDomain: "form-mdm.firebaseapp.com",
-  projectId: "form-mdm",
-  storageBucket: "form-mdm.firebasestorage.app",
-  messagingSenderId: "1062794197984",
-  appId: "1:1062794197984:web:d38735b3f0acd6e1a78985",
-  measurementId: "G-WW8FXGLHJ6"
+  apiKey: "AIzaSyBvESuhhqr46upItZnHsBilnKaQBKdOJU0",
+  authDomain: "form-mdm-9c946.firebaseapp.com",
+  projectId: "form-mdm-9c946",
+  storageBucket: "form-mdm-9c946.firebasestorage.app",
+  messagingSenderId: "45830228414",
+  appId: "1:45830228414:web:e1c1f54cdd5e6db5c691ef",
+  measurementId: "G-0G8VX7ERFJ"
 }
