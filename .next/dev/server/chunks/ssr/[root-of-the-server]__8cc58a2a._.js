@@ -72,8 +72,8 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$vercel$2f$
 ;
 ;
 const metadata = {
-    title: "Entrenamiento de Arquería - 25 años de experiencia",
-    description: "Entrená con los mejores arqueros del país. 25 años de experiencia en tiro con arco.",
+    title: "Mdm - Entrenamiento de élite",
+    description: "25 años de experiencia en tiro con arco.",
     generator: "v0.app",
     icons: {
         icon: [

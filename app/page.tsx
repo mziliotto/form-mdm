@@ -118,9 +118,9 @@ export default function FormularioArqueria() {
   }
 
   return (
-    <main className="min-h-screen bg-gradient-to-br from-background via-secondary/10 to-background flex items-center justify-center p-4 md:p-8">
+    <main className="min-h-screen bg-gradient-to-br from-background flex items-center justify-center p-4 md:p-8">
       <AlertDialog open={showSuccessDialog} onOpenChange={setShowSuccessDialog}>
-        <AlertDialogContent className="bg-green-500/30 border-green-500/50">
+        <AlertDialogContent className="bg-green-800/90 border-green-500/30">
           <AlertDialogHeader>
             <div className="flex items-center justify-center mb-4">
               <div className="rounded-full bg-green-500 p-3">
@@ -131,7 +131,7 @@ export default function FormularioArqueria() {
               ¡Solicitud enviada exitosamente! 🎯
             </AlertDialogTitle>
             <AlertDialogDescription className="text-center text-base text-foreground/80">
-              Gracias por tu interés en entrenar con nosotros. Te contactaremos pronto para comenzar tu camino en la
+              Gracias por tu interés en entrenar conmigo. Te contactaremos pronto para comenzar tu camino en la
               arquería. ¡Prepárate para alcanzar tu máximo potencial!
             </AlertDialogDescription>
           </AlertDialogHeader>
